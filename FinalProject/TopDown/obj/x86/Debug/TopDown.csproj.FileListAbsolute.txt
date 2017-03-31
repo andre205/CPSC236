@@ -1,0 +1,206 @@
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\Content\temporaryplayer.png
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\TopDown.exe
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\TopDown.pdb
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\obj\x86\Debug\TopDown.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\obj\x86\Debug\TopDown.exe
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\obj\x86\Debug\TopDown.pdb
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\Content\temporaryplayer_bullet.png
+c:\users\tyler\documents\visual studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\Content\cursor.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\Content\laser3FX.wav
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\Content\blueorb.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\Content\greenorb.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\Content\redorb.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\Content\level_tutorial.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\Content\level_outline.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\Content\healthbar.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\Content\SpriteFont1.spritefont
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown\TopDown\bin\Windows\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\obj\x86\Debug\TopDown.exe
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\obj\x86\Debug\TopDown.pdb
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\Content\blueorb.png
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\Content\cursor.png
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\Content\greenorb.png
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\Content\healthbar.png
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\Content\level_outline.png
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\Content\level_tutorial.png
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\Content\redorb.png
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\Content\temporaryplayer.png
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\Content\temporaryplayer_bullet.png
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\Content\SpriteFont1.spritefont
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\Content\laser3FX.wav
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\TopDown.exe
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\TopDown.pdb
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Tyler\Desktop\TopDown-2016-05-10\TopDown\TopDown\obj\x86\Debug\TopDown.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\obj\x86\Debug\TopDown.exe
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\obj\x86\Debug\TopDown.pdb
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\blueorb.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\cursor.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\greenorb.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\healthbar.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\level_outline.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\level_tutorial.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\redorb.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\temporaryplayer.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\temporaryplayer_bullet.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\SpriteFont1.spritefont
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\laser3FX.wav
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\TopDown.exe
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\TopDown.pdb
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\obj\x86\Debug\TopDown.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\arrow.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\weapon display.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\rightarrow.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\bin\Windows\x86\Debug\Content\enemyexample.png
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\obj\x86\Debug\TopDown.Menu.resources
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\obj\x86\Debug\TopDown.csproj.GenerateResource.Cache
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\TopDown2-2016-05-10\TopDown2\TopDown\obj\x86\Debug\TopDown.Gameover.resources
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\obj\x86\Debug\TopDown.exe
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\obj\x86\Debug\TopDown.pdb
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\arrow.png
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\blueorb.png
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\cursor.png
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\enemyexample.png
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\greenorb.png
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\healthbar.png
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\level_outline.png
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\level_tutorial.png
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\redorb.png
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\rightarrow.png
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\temporaryplayer.png
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\temporaryplayer_bullet.png
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\weapon display.png
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\SpriteFont1.spritefont
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\laser3FX.wav
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\TopDown.exe
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\TopDown.pdb
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\obj\x86\Debug\TopDown.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\obj\x86\Debug\TopDown.Gameover.resources
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\obj\x86\Debug\TopDown.Menu.resources
+C:\Users\Tyler\Desktop\TopDown2-2016-05-17\TopDown2\TopDown\obj\x86\Debug\TopDown.csproj.GenerateResource.Cache
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\arrow.png
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\blueorb.png
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\cursor.png
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\enemyexample.png
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\greenorb.png
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\healthbar.png
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\level_outline.png
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\level_tutorial.png
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\redorb.png
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\rightarrow.png
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\temporaryplayer.png
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\temporaryplayer_bullet.png
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\weapon display.png
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\SpriteFont1.spritefont
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\Content\laser3FX.wav
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\TopDown.exe
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\TopDown.pdb
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\obj\x86\Debug\TopDown.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\obj\x86\Debug\TopDown.Gameover.resources
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\obj\x86\Debug\TopDown.Menu.resources
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\obj\x86\Debug\TopDown.csproj.GenerateResource.Cache
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\obj\x86\Debug\TopDown.exe
+C:\Users\Tyler\Documents\SCHOOL\TopDown2-2016-05-17\TopDown2\TopDown\obj\x86\Debug\TopDown.pdb
