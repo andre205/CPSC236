@@ -1,6 +1,6 @@
-# CPSC236
-Visual Programming | C# | Spring 2016
-All projects completed in Visual Studio 2015 Community Edition
+# CPSC236 - Visual Programming
+Spring 2016
+All projects completed in C# using Visual Studio 2015 Community Edition
 
 __Project 3__ - A record keeping console application for calorie counting.
 
