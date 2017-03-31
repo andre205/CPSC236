@@ -1,0 +1,6 @@
+c:\users\tyler\documents\visual studio 2015\Projects\tAndrews_Proj03\tAndrews_Proj03\bin\Debug\tAndrews_Proj03.exe.config
+c:\users\tyler\documents\visual studio 2015\Projects\tAndrews_Proj03\tAndrews_Proj03\obj\Debug\tAndrews_Proj03.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2015\Projects\tAndrews_Proj03\tAndrews_Proj03\bin\Debug\tAndrews_Proj03.exe
+c:\users\tyler\documents\visual studio 2015\Projects\tAndrews_Proj03\tAndrews_Proj03\bin\Debug\tAndrews_Proj03.pdb
+c:\users\tyler\documents\visual studio 2015\Projects\tAndrews_Proj03\tAndrews_Proj03\obj\Debug\tAndrews_Proj03.exe
+c:\users\tyler\documents\visual studio 2015\Projects\tAndrews_Proj03\tAndrews_Proj03\obj\Debug\tAndrews_Proj03.pdb

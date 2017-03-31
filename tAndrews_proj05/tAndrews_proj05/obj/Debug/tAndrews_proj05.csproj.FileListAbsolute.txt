@@ -1,0 +1,9 @@
+c:\users\tyler\documents\visual studio 2015\Projects\tAndrews_proj05\tAndrews_proj05\bin\Debug\tAndrews_proj05.exe.config
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\tAndrews_proj05\tAndrews_proj05\bin\Debug\tAndrews_proj05.exe
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\tAndrews_proj05\tAndrews_proj05\bin\Debug\tAndrews_proj05.pdb
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\tAndrews_proj05\tAndrews_proj05\obj\Debug\tAndrews_proj05.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\tAndrews_proj05\tAndrews_proj05\obj\Debug\tAndrews_proj05.Form1.resources
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\tAndrews_proj05\tAndrews_proj05\obj\Debug\tAndrews_proj05.Properties.Resources.resources
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\tAndrews_proj05\tAndrews_proj05\obj\Debug\tAndrews_proj05.csproj.GenerateResource.Cache
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\tAndrews_proj05\tAndrews_proj05\obj\Debug\tAndrews_proj05.exe
+C:\Users\Tyler\Documents\Visual Studio 2015\Projects\tAndrews_proj05\tAndrews_proj05\obj\Debug\tAndrews_proj05.pdb

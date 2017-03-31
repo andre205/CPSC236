@@ -1,0 +1,5 @@
+c:\users\tyler\documents\visual studio 2015\Projects\tAndrews_Proj04\tAndrews_Proj04\bin\Debug\tAndrews_Proj04.exe.config
+c:\users\tyler\documents\visual studio 2015\Projects\tAndrews_Proj04\tAndrews_Proj04\obj\Debug\tAndrews_Proj04.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2015\Projects\tAndrews_Proj04\tAndrews_Proj04\obj\Debug\tAndrews_proj04.Form1.resources
+c:\users\tyler\documents\visual studio 2015\Projects\tAndrews_Proj04\tAndrews_Proj04\obj\Debug\tAndrews_Proj04.Properties.Resources.resources
+c:\users\tyler\documents\visual studio 2015\Projects\tAndrews_Proj04\tAndrews_Proj04\obj\Debug\tAndrews_Proj04.csproj.GenerateResource.Cache
